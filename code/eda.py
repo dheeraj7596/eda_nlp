@@ -34,7 +34,7 @@ def get_only_chars(line):
 
     clean_line = ""
 
-    line = line.replace("’", "")
+    line = line.replace("'", "")
     line = line.replace("'", "")
     line = line.replace("-", " ") #replace hyphens with spaces
     line = line.replace("\t", " ")
